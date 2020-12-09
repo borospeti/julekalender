@@ -3,20 +3,21 @@
 import re
 import sys
 
+PREAMBLE = 25
+
 with open('input.txt') as f:
     numbers = [int(line) for line in f.readlines()]
 
 def is_invalid_at(i):
-    for j in range(i - 25, i - 1):
+    for j in range(i - PREAMBLE, i - 1):
         for k in range(j + 1, i):
             if numbers[j] + numbers[k] == numbers[i]:
                 return False
     return True
 
 print('part 1')
-PREAMBLE = 25
 invalid = None
-for i in range(25, len(numbers)):
+for i in range(PREAMBLE, len(numbers)):
     if is_invalid_at(i):
         invalid = numbers[i]
         print(f'invalid: {invalid} at pos {i}')
