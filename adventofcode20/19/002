@@ -1,0 +1,445 @@
+part 2
+bababbbbbbbaabbabbbbaaab None
+baaaabbbabaaabbbaabbabbbabbbbbaa ['b', 'a', 'a', 'a', 'a', 'b', 'b', 'b', 'a', 'b', 'a', 'a', 'a', 'b', 'b', 'b', 'a', 'a', 'b', 'b', 'a', 'b', 'b', 'b', 'a', 'b', 'b', 'b', 'b', 'b', 'a', 'a']
+bbabbabaabbaabbaabbabbaa None
+abbbabbbabaabababaaabbbb None
+abbaaabaaaaaababababbaab None
+babaabbaabaaaabbbbbbabababaaabbabbaabbbb None
+aaabbaabbbbaaabbabbbabaa None
+abbaaaaabbaabaaabbabaaaa None
+aaaaaabababaabbabbababaabbbaaaaababbabbabaabbaba None
+abbbbaabbababaaaabbaabbb None
+aaaaabaaaabbaaabbbbabbaa None
+abbbbaababbabbbabbababbb None
+abbbbaababaabbbaababaabbaabaabbaaabaababbbabbbaaaabbbbaa None
+bbbbabbbbabaaaabbababbabbabbbaaa ['b', 'b', 'b', 'b', 'a', 'b', 'b', 'b', 'b', 'a', 'b', 'a', 'a', 'a', 'a', 'b', 'b', 'a', 'b', 'a', 'b', 'b', 'a', 'b', 'b', 'a', 'b', 'b', 'b', 'a', 'a', 'a']
+abbbbaababbabbbaabaaabaabaababaaabababab None
+abababaababababaabbaaaabbaabaaaaabbbaaba None
+abbbababbbaaababbababaaaabbbabaabbbbabaa None
+babbbaabbaaaaaaabaabbaaa None
+aaaaaabaaabaabababbbaaba None
+abaabbabbabaabbbaaabaaaabababaabbbbbabba None
+aaaabaabaabaababbaaabaaa None
+bbaaabbbababaabbabaaabbbbbaaababbbbbbbbaaaaaaaab ['b', 'b', 'a', 'a', 'a', 'b', 'b', 'b', 'a', 'b', 'a', 'b', 'a', 'a', 'b', 'b', 'a', 'b', 'a', 'a', 'a', 'b', 'b', 'b', 'b', 'b', 'a', 'a', 'a', 'b', 'a', 'b', 'b', 'b', 'b', 'b', 'b', 'b', 'b', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 'b']
+bbabababbbbabaabbabbabaabababbabaabbbaaaabababbaabbaaaaaaaabaabbabbaaabbaababbbbbaabbaba None
+aabbaabbbaaaaabbaaaaabbb None
+abbaaaabbaabaaaaaabaaabb None
+abbbbbbbaaababaabbaababaabbaabbbaababbabaabaabbbbabbbaaaabbbabba None
+aaabababbbbabbabbaaaaaaaaaababba ['a', 'a', 'a', 'b', 'a', 'b', 'a', 'b', 'b', 'b', 'b', 'a', 'b', 'b', 'a', 'b', 'b', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 'b', 'a', 'b', 'b', 'a']
+babaabbbabbbabbbbaaabbbb None
+bbbbbaaaabbbbbababbbabba None
+babaaaabaabbaababababbbbbaabbbba ['b', 'a', 'b', 'a', 'a', 'a', 'a', 'b', 'a', 'a', 'b', 'b', 'a', 'a', 'b', 'a', 'b', 'a', 'b', 'a', 'b', 'b', 'b', 'b', 'b', 'a', 'a', 'b', 'b', 'b', 'b', 'a']
+abaaaaabbbbbabababbabbaa None
+abaabbbabaaaababaaabaaba None
+abbbbbbbaabbbbbbabbbbbabaaababbbbaaaaabaaaaabbba ['a', 'b', 'b', 'b', 'b', 'b', 'b', 'b', 'a', 'a', 'b', 'b', 'b', 'b', 'b', 'b', 'a', 'b', 'b', 'b', 'b', 'b', 'a', 'b', 'a', 'a', 'a', 'b', 'a', 'b', 'b', 'b', 'b', 'a', 'a', 'a', 'a', 'a', 'b', 'a', 'a', 'a', 'a', 'a', 'b', 'b', 'b', 'a']
+aaababaabaaaabbbabbaaaaabbabaaabbaababbbaaaabbba None
+babbaabbaaabbbbbabbbbbabababbaaa ['b', 'a', 'b', 'b', 'a', 'a', 'b', 'b', 'a', 'a', 'a', 'b', 'b', 'b', 'b', 'b', 'a', 'b', 'b', 'b', 'b', 'b', 'a', 'b', 'a', 'b', 'a', 'b', 'b', 'a', 'a', 'a']
+babaaaabbabababbbbaababb None
+bbababaaababbbaabbbbabababbbbbabbbbabbabbaabbaaa None
+abbbbbbaabbabaaaabaaabbaabbaabbbaaaabbba None
+babaaaabbabababbbbabaaababaababb ['b', 'a', 'b', 'a', 'a', 'a', 'a', 'b', 'b', 'a', 'b', 'a', 'b', 'a', 'b', 'b', 'b', 'b', 'a', 'b', 'a', 'a', 'a', 'b', 'a', 'b', 'a', 'a', 'b', 'a', 'b', 'b']
+aabbbbbbbbbabbabbababbaa None
+bbaaaaaaaaababaaabbbbbaaabbbabbbabbabaaaabaabaabbabaabbabbbbaabbbbaabaaaababbaabaababaab None
+abbbbaabbbabaaabaabababb None
+baabbbababbaaabaabbbabbbbabbbaaa ['b', 'a', 'a', 'b', 'b', 'b', 'a', 'b', 'a', 'b', 'b', 'a', 'a', 'a', 'b', 'a', 'a', 'b', 'b', 'b', 'a', 'b', 'b', 'b', 'b', 'a', 'b', 'b', 'b', 'a', 'a', 'a']
+aaababaaaabbbaaababbbbbababbbaba ['a', 'a', 'a', 'b', 'a', 'b', 'a', 'a', 'a', 'a', 'b', 'b', 'b', 'a', 'a', 'a', 'b', 'a', 'b', 'b', 'b', 'b', 'b', 'a', 'b', 'a', 'b', 'b', 'b', 'a', 'b', 'a']
+aaabbbbbabbaaababababbaa None
+aaabbbabaaaabbaaaababbbbaabbaabaaaaaaabb None
+bbabbabababbabbaabababbabbabbbaaaaaaaaaa None
+bbaababaaabbbbbbabbbbaba None
+abbbbbbaaabbaaabbbbaabbaaaaaaababbbbaabaaabbabab None
+baaaaabbbabaaaaabbaaabbbbaabbabbaaaaaabb None
+aaaaabaabbabbabaabbbaaba None
+baabbaabaabbbbabaabbabab None
+bbabbabababbababaabbabbaabababbb ['b', 'b', 'a', 'b', 'b', 'a', 'b', 'a', 'b', 'a', 'b', 'b', 'a', 'b', 'a', 'b', 'a', 'a', 'b', 'b', 'a', 'b', 'b', 'a', 'a', 'b', 'a', 'b', 'a', 'b', 'b', 'b']
+bababbabaabbbaaaabbaaaabbbabbabbbbbabbbb None
+ababbbabbabbbabbaabababa None
+bababbbababbbaabbaabbbabaabbbbabbbaabbbaaaaabbab ['b', 'a', 'b', 'a', 'b', 'b', 'b', 'a', 'b', 'a', 'b', 'b', 'b', 'a', 'a', 'b', 'b', 'a', 'a', 'b', 'b', 'b', 'a', 'b', 'a', 'a', 'b', 'b', 'b', 'b', 'a', 'b', 'b', 'b', 'a', 'a', 'b', 'b', 'b', 'a', 'a', 'a', 'a', 'a', 'b', 'b', 'a', 'b']
+bababaaaabaaaaabaaabbbabbaababab ['b', 'a', 'b', 'a', 'b', 'a', 'a', 'a', 'a', 'b', 'a', 'a', 'a', 'a', 'a', 'b', 'a', 'a', 'a', 'b', 'b', 'b', 'a', 'b', 'b', 'a', 'a', 'b', 'a', 'b', 'a', 'b']
+abbaabbababbaaaabbaaaaababbbabbbbbabbababaaaabaabaaabaababbabbbb ['a', 'b', 'b', 'a', 'a', 'b', 'b', 'a', 'b', 'a', 'b', 'b', 'a', 'a', 'a', 'a', 'b', 'b', 'a', 'a', 'a', 'a', 'a', 'b', 'a', 'b', 'b', 'b', 'a', 'b', 'b', 'b', 'b', 'b', 'a', 'b', 'b', 'a', 'b', 'a', 'b', 'a', 'a', 'a', 'a', 'b', 'a', 'a', 'b', 'a', 'a', 'a', 'b', 'a', 'a', 'b', 'a', 'b', 'b', 'a', 'b', 'b', 'b', 'b']
+aaaaaababaaaaabbbaaabaaa None
+abbaaaaaabaaaaaabbbbabbbbaaaababbbbabbabababababbaaabbbbababbaba ['a', 'b', 'b', 'a', 'a', 'a', 'a', 'a', 'a', 'b', 'a', 'a', 'a', 'a', 'a', 'a', 'b', 'b', 'b', 'b', 'a', 'b', 'b', 'b', 'b', 'a', 'a', 'a', 'a', 'b', 'a', 'b', 'b', 'b', 'b', 'a', 'b', 'b', 'a', 'b', 'a', 'b', 'a', 'b', 'a', 'b', 'a', 'b', 'b', 'a', 'a', 'a', 'b', 'b', 'b', 'b', 'a', 'b', 'a', 'b', 'b', 'a', 'b', 'a']
+bbabbaaaabaaaaabbabbabbb None
+bbbaaaaaabaaabaababaabaaaabbbaab ['b', 'b', 'b', 'a', 'a', 'a', 'a', 'a', 'a', 'b', 'a', 'a', 'a', 'b', 'a', 'a', 'b', 'a', 'b', 'a', 'a', 'b', 'a', 'a', 'a', 'a', 'b', 'b', 'b', 'a', 'a', 'b']
+abbaababbbbaabbabbbaabba None
+baabaabaabaaaabaaaababbbbbaaaaaabbbbaaaaaabbabaaabbababababbaaba None
+babbbabbbabbaaaaaaaaaabb None
+bbaaababbbaabbabaaaabaaa None
+bbbaaaaaabbbbbbbbbabaabb None
+abaabbbbaaababbbabbbbabbaabbbabb ['a', 'b', 'a', 'a', 'b', 'b', 'b', 'b', 'a', 'a', 'a', 'b', 'a', 'b', 'b', 'b', 'a', 'b', 'b', 'b', 'b', 'a', 'b', 'b', 'a', 'a', 'b', 'b', 'b', 'a', 'b', 'b']
+bbbaaaaaaabbaaababbbabbbbaabbbba ['b', 'b', 'b', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 'b', 'b', 'a', 'a', 'a', 'b', 'a', 'b', 'b', 'b', 'a', 'b', 'b', 'b', 'b', 'a', 'a', 'b', 'b', 'b', 'b', 'a']
+abbaababaaaaaababbbbbaaaabaabaaaababaaaa None
+aabaababbbaabababaabaaabaaababbbabaababbababbabbbbbabbaa None
+bbbbbabaaabbbbbbbabbbbaa None
+aaaaabababaaaabbbaababab None
+bbbbbaaabaaaaaabaaaaaaba None
+bbaababaaaabaaaaabbbbaabbbaaabba None
+aaaabababbabaaabbaaaabba None
+ababbbababababbabbabbbab None
+abbaaababababbaaaabbaaaababaaaabbabbbaba None
+babbaabbabbabaaaababbbababbaabaa ['b', 'a', 'b', 'b', 'a', 'a', 'b', 'b', 'a', 'b', 'b', 'a', 'b', 'a', 'a', 'a', 'a', 'b', 'a', 'b', 'b', 'b', 'a', 'b', 'a', 'b', 'b', 'a', 'a', 'b', 'a', 'a']
+abaaabbabbabbababaababaa None
+aaaaababaabbbbabbbbabaab None
+bababbbaabaaaaabbaaaaaabbaaaabba ['b', 'a', 'b', 'a', 'b', 'b', 'b', 'a', 'a', 'b', 'a', 'a', 'a', 'a', 'a', 'b', 'b', 'a', 'a', 'a', 'a', 'a', 'a', 'b', 'b', 'a', 'a', 'a', 'a', 'b', 'b', 'a']
+ababaaabababaabbbbaaaabb None
+bababbbababaabaaabababbb None
+abbaabbaabbbabbbaababbaa None
+baaababaabbaabbaaaabaaaaaaabbabbabbaaabaabbaabbb None
+bbbaaaaabaaabababababaaabbbaaaaaaaabbbba None
+bbbbaabbabbbbbbbbbbbabbbabababaabaaabbbb None
+aaaaababaaaaababbaabbaba None
+babbababaabbaaabbabbbbaa None
+baaaaaaaaabbbbababaabaaa None
+bbaaabbaabbbbbbaababbbababababaaaaaabababbabbbaaaaabbbba None
+babbbabbababbbbababbbbbaabaaabbbaababaababbaaaababaaaaabaababbaa None
+bbaaaaabbbaaabbbbbababbb None
+aaaabababbabbabaababbaaa None
+aaabbabbaaabbaabababbaaa None
+abbaaaaabbabbbaaaaaaababaaabbaaaabbbaaaabbabbabb ['a', 'b', 'b', 'a', 'a', 'a', 'a', 'a', 'b', 'b', 'a', 'b', 'b', 'b', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 'b', 'a', 'b', 'a', 'a', 'a', 'b', 'b', 'a', 'a', 'a', 'a', 'b', 'b', 'b', 'a', 'a', 'a', 'a', 'b', 'b', 'a', 'b', 'b', 'a', 'b', 'b']
+abbaabababbbabbbaaababba None
+aabbbbbbababbbaabbaabbba None
+baaabbaaabaabbbbababbbaaaaaaabababaabbbabbaabaaa None
+abbbabbbbabbbaaaaaaabbbbbbaababbaabaaaaa None
+aabaaababaabbaabbabababbabbbbbaa ['a', 'a', 'b', 'a', 'a', 'a', 'b', 'a', 'b', 'a', 'a', 'b', 'b', 'a', 'a', 'b', 'b', 'a', 'b', 'a', 'b', 'a', 'b', 'b', 'a', 'b', 'b', 'b', 'b', 'b', 'a', 'a']
+baabbbbbaaaabaabababbbabbbbaabbb ['b', 'a', 'a', 'b', 'b', 'b', 'b', 'b', 'a', 'a', 'a', 'a', 'b', 'a', 'a', 'b', 'a', 'b', 'a', 'b', 'b', 'b', 'a', 'b', 'b', 'b', 'b', 'a', 'a', 'b', 'b', 'b']
+abaaabaabbbbababaabaababbabbababaabbabaabaababab ['a', 'b', 'a', 'a', 'a', 'b', 'a', 'a', 'b', 'b', 'b', 'b', 'a', 'b', 'a', 'b', 'a', 'a', 'b', 'a', 'a', 'b', 'a', 'b', 'b', 'a', 'b', 'b', 'a', 'b', 'a', 'b', 'a', 'a', 'b', 'b', 'a', 'b', 'a', 'a', 'b', 'a', 'a', 'b', 'a', 'b', 'a', 'b']
+abababaaaaabbaabbbabaaaa None
+aaaaabababaabbbbaaabbaaababbbbabbaaabbba None
+bbababaabaaaaabbbbaaaaaa None
+bbaabbbbabaabaaabbbaaaaabaabbaaabbbbabba None
+aaabbabbbaaaaaababaaaabbaaaabaabbabbbbbbababbaab None
+abaaabaaabbabbbaaaaaaaab None
+aaabbabbbaabbbababaaabbabbbbbabaabbbabab None
+aaaabaaaaabbbbbabbaababbaababbbabbaabbaabbaabaab None
+bbabaaababaabababbabbaaaabbbabbbbaaaabab None
+abaaabbbbaaaabbbbaaabbab None
+aaaabababbabbbaaaaaaaabb None
+baaaaaabbababaaaaabbbababbabbbaababbbaabbabbbbbbbaabaabb None
+abbbbbababbaabbaabbbbabbbaaabbaaabbbaaabbbaabbbaabaabaaa None
+abbaaaabaaabaaaaaaabaabb None
+bbbbaabbbbbaaaaaaabbabaa None
+aaabbaaabbabbabaabaaababbbbbbbbb ['a', 'a', 'a', 'b', 'b', 'a', 'a', 'a', 'b', 'b', 'a', 'b', 'b', 'a', 'b', 'a', 'a', 'b', 'a', 'a', 'a', 'b', 'a', 'b', 'b', 'b', 'b', 'b', 'b', 'b', 'b', 'b']
+ababbbbbbabaabaabbababbaaaaababaaaaabaabbbbabbabbaaaabaabaaabbaabababbab None
+aaaaabaaabaaabbabbbaabbb None
+abbaaabaabaababaabaabbabaabbbaababbbabaa None
+aabbaaaaaaabbaaaabaababb None
+abbaabbaaabaabbabaababab None
+aabbbbbbbbaabbabaaabbabbaabbbabbbbbaabbb None
+bbbababbaabbbaabaaabaaaababbababaaabbbabaaabaaabaaababaaababaaab None
+aabaabababbaaaaabbababababbaabbaabbababaaabababa None
+bbbaaabaabaaaaabbbaaaaabaaaaabaabaaaaaba None
+bababbbaabbabaaaabbabbbb None
+bababbabbaaabababbabaaabababbaba ['b', 'a', 'b', 'a', 'b', 'b', 'a', 'b', 'b', 'a', 'a', 'a', 'b', 'a', 'b', 'a', 'b', 'b', 'a', 'b', 'a', 'a', 'a', 'b', 'a', 'b', 'a', 'b', 'b', 'a', 'b', 'a']
+baabbbbbbabbabababaaaaba None
+babababaabbbbbbbbaababaa None
+abaaabbabbaabaabbaaabbaaababbbabbabaaabbaaabaaba None
+bbaaaaabaaabbabbababbbbb None
+bbabbaabaabaabbbaaaababbabaababbbbaaabbbabbbaabbabbbbbaa None
+abbaaaaaabbbbaababbaaaaaabbaababbaabbbaa None
+bbbbaabbaabbbbbaaabbaabababbbaabbbbabaab None
+aababbabbbabaaaabaaabbbbbbabbbbb None
+babbbabbabaabbbbbababaab None
+bbbbbaaaaabbaababbabbaaabaaaabba ['b', 'b', 'b', 'b', 'b', 'a', 'a', 'a', 'a', 'a', 'b', 'b', 'a', 'a', 'b', 'a', 'b', 'b', 'a', 'b', 'b', 'a', 'a', 'a', 'b', 'a', 'a', 'a', 'a', 'b', 'b', 'a']
+bbaaabbaaaabbbabbaabaabb None
+baabbbbbbbaabaabbbabbabababbaaba ['b', 'a', 'a', 'b', 'b', 'b', 'b', 'b', 'b', 'b', 'a', 'a', 'b', 'a', 'a', 'b', 'b', 'b', 'a', 'b', 'b', 'a', 'b', 'a', 'b', 'a', 'b', 'b', 'a', 'a', 'b', 'a']
+aabbabbaaaabbaabbabaabaaabbbaaab ['a', 'a', 'b', 'b', 'a', 'b', 'b', 'a', 'a', 'a', 'a', 'b', 'b', 'a', 'a', 'b', 'b', 'a', 'b', 'a', 'a', 'b', 'a', 'a', 'a', 'b', 'b', 'b', 'a', 'a', 'a', 'b']
+aabaaabababbbbbaababaaba None
+baaabbaabbaaabbabaabbbba None
+ababaabbbbababababbbbabbbbabbbaaaaabbabaaabaaaab ['a', 'b', 'a', 'b', 'a', 'a', 'b', 'b', 'b', 'b', 'a', 'b', 'a', 'b', 'a', 'b', 'a', 'b', 'b', 'b', 'b', 'a', 'b', 'b', 'b', 'b', 'a', 'b', 'b', 'b', 'a', 'a', 'a', 'a', 'a', 'b', 'b', 'a', 'b', 'a', 'a', 'a', 'b', 'a', 'a', 'a', 'a', 'b']
+abbbbaabbbbaabaabaaaaaaabbaaabbaabbabbbb None
+aabaabbabaababbaaabaaaab None
+abbbbaababbaaaababababab None
+ababaabaaabbbbababbaaaabbaababbabaaaaabb None
+babaaaabbbabbaabbbbaaaab None
+aaababbaabaaaabbbaababbbaabbbbaaaabbbbaabbaababaaababaab None
+abbaaaabaabbbababaabbaba None
+bbbbaabbaaabbabbbabbbaabaababbbabbbbbabb None
+babbabbaaaabbabbbababaababbbabab None
+aaaaababbbabbabaaaaaaababbbbabaa ['a', 'a', 'a', 'a', 'a', 'b', 'a', 'b', 'b', 'b', 'a', 'b', 'b', 'a', 'b', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 'b', 'a', 'b', 'b', 'b', 'b', 'a', 'b', 'a', 'a']
+aaababaaabaaababbaabbaabbbbaaabbbaabbbbbaaabaaaaaabaaaaabbabaaba None
+bbbbbabaaabaaabaabaaabbaaabaabaaabaabaaa None
+bbbaaaaaaaaabbbabaabbbaabbbabaaaabbabbbb None
+aabbabbabbbaaabbabaaabbaaaabbaaaabbaaabb None
+abaabbaaabaababaabbbbabbabbabbbaaaababaaaaabbbbabababaab None
+bbaabababbabbbaaabbabaab None
+abaaabbaaabaababbabbbaba None
+aaaabababbababaababbaaba None
+aaaaababbbbbaabaabaabaaa None
+bbbababbbbbaaaaabbaaaababaabaabb None
+baabaaaabbbbaaaaaabaababbaaaabba ['b', 'a', 'a', 'b', 'a', 'a', 'a', 'a', 'b', 'b', 'b', 'b', 'a', 'a', 'a', 'a', 'a', 'a', 'b', 'a', 'a', 'b', 'a', 'b', 'b', 'a', 'a', 'a', 'a', 'b', 'b', 'a']
+aabbaaababbbbabbaabaabbb None
+baababbaaaaabbaaaababbba None
+bbbaabbaabbaabababaaaaba None
+aaaaaababaaaaaaaaabbbbbaaabaaaaa ['a', 'a', 'a', 'a', 'a', 'a', 'b', 'a', 'b', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 'b', 'b', 'b', 'b', 'b', 'a', 'a', 'a', 'b', 'a', 'a', 'a', 'a', 'a']
+bbbbbbaaabaaabbbbbaaaaababbbabba ['b', 'b', 'b', 'b', 'b', 'b', 'a', 'a', 'a', 'b', 'a', 'a', 'a', 'b', 'b', 'b', 'b', 'b', 'a', 'a', 'a', 'a', 'a', 'b', 'a', 'b', 'b', 'b', 'a', 'b', 'b', 'a']
+babbababbabababbabbbabaaaaabbbbbaababbaabbbbbbbabbbbbabaabbaabab None
+bbaabbababbbbaaaaaabbbaaabaaaaaaabababaaabbabbbababbbbbbbbabbbaaabaabbab None
+aaaabababbabbaaaaaaaabaabbaaaaaaaabababa None
+abaabbbbbbbbababbbbaaababbaababaabbaaaaabbabbbbbaaaaabba None
+abbbbbaabbbabbbbbbabbaaaaababababaabaababaaabbbaabababab None
+aabbaaaabbabbbbaaabbaabbabbbbaabababbabbbabbbaba ['a', 'a', 'b', 'b', 'a', 'a', 'a', 'a', 'b', 'b', 'a', 'b', 'b', 'b', 'b', 'a', 'a', 'a', 'b', 'b', 'a', 'a', 'b', 'b', 'a', 'b', 'b', 'b', 'b', 'a', 'a', 'b', 'a', 'b', 'a', 'b', 'b', 'a', 'b', 'b', 'b', 'a', 'b', 'b', 'b', 'a', 'b', 'a']
+bababbbabbabbaaabbaaabaa None
+bbabbaaabbbbaabaaabbbbabaabbaaaaabbbaabbbbbbbabb None
+ababbbabbbabbbbaabaaabbaabbbbbbaaaaaabbb None
+aaabaaaababbababbbaabbbbaaababba None
+bbaabbababaaaaaaababbbabbbabababbbaaabbbbababaababbbaaababaabbaa ['b', 'b', 'a', 'a', 'b', 'b', 'a', 'b', 'a', 'b', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 'b', 'a', 'b', 'b', 'b', 'a', 'b', 'b', 'b', 'a', 'b', 'a', 'b', 'a', 'b', 'b', 'b', 'a', 'a', 'a', 'b', 'b', 'b', 'b', 'a', 'b', 'a', 'b', 'a', 'a', 'b', 'a', 'b', 'b', 'b', 'a', 'a', 'a', 'b', 'a', 'b', 'a', 'a', 'b', 'b', 'a', 'a']
+babbbaabbabbaaaabbaaaaba None
+bbaababaabaaaaababaaabaaaaaabababaababbaaaababbabbbbabba None
+abaaaaaabbaabaabaababaaa None
+abbabaaaaaababababaaabbbaaabaaab ['a', 'b', 'b', 'a', 'b', 'a', 'a', 'a', 'a', 'a', 'a', 'b', 'a', 'b', 'a', 'b', 'a', 'b', 'a', 'a', 'a', 'b', 'b', 'b', 'a', 'a', 'a', 'b', 'a', 'a', 'a', 'b']
+aaaaabaaaaaaaabaaaabbaaa None
+babababbbaaaaabbabbbbbaa None
+aabbaaaaabbbabbbbabbabaa None
+bbbbbaabbbaaabbbbaabbabb None
+baaaabbbbaababbbaabbaaabbaabaabbababaabaaaabbbbabaabaababaabbaaa None
+babbaaaabbabaabbbaabaaaabaabaaba None
+abaaaaabaaaaabaabababbbaaaaabaaabbabaaba None
+babaabbaabbbaabbabbbbaba None
+abbbaabbababaaababbbbbaa None
+bbaaaaabaababbaabaababab None
+aabbbbbabbbbbaabbbabaaababbabbbaaabaaaab None
+babbabbaabaaaabbbbabbaaabbababbbaabaabaa None
+abbabaaabaaaaaaabaabbaabbbbbaaab ['a', 'b', 'b', 'a', 'b', 'a', 'a', 'a', 'b', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 'b', 'a', 'a', 'b', 'b', 'a', 'a', 'b', 'b', 'b', 'b', 'b', 'a', 'a', 'a', 'b']
+baaaaaababababaaabaabbbabbbaabaabbbaaaabaabababb ['b', 'a', 'a', 'a', 'a', 'a', 'a', 'b', 'a', 'b', 'a', 'b', 'a', 'b', 'a', 'a', 'a', 'b', 'a', 'a', 'b', 'b', 'b', 'a', 'b', 'b', 'b', 'a', 'a', 'b', 'a', 'a', 'b', 'b', 'b', 'a', 'a', 'a', 'a', 'b', 'a', 'a', 'b', 'a', 'b', 'a', 'b', 'b']
+babbbaabbbbaabbabbbababbbbbbaababbbbabaa None
+abababaababababbaaabaabb None
+abbaababbbbbbbaabaaaaaababbaabbababaaabbaabbaabbbbbabaaababaaaba None
+ababaaababaaaabbabaaabaaaabbaaaaabaaababbbaabbbaaabaabbb None
+abbaaabaabbaabbabaaaabaa None
+abaabbbabbbabbabaaaaaaab None
+babbbbbbbbaabababbbbabaa None
+aabaabbabababbbaabaababb None
+abbaaabaabaaabaabbbaaaab None
+bbbbaabbaabbaaabbabbbbaa None
+bababbabbbaaababbaaababb None
+bbbbbaabbabbbbbbaabbbbaaaaabbaba None
+bbbaabaaaabbbabababbaabbbabbbbbbbbabbaaaababbbabaaabbaba None
+bbbabaabbbbbabbababaababaababbaabaabaaabbabaabbabbbaaabbbabaababbaaabbbbababaabbbabbbabb None
+abbaaabaaaabbaabbababbbbaaababbbaaababbaaaabbbaa ['a', 'b', 'b', 'a', 'a', 'a', 'b', 'a', 'a', 'a', 'a', 'b', 'b', 'a', 'a', 'b', 'b', 'a', 'b', 'a', 'b', 'b', 'b', 'b', 'a', 'a', 'a', 'b', 'a', 'b', 'b', 'b', 'a', 'a', 'a', 'b', 'a', 'b', 'b', 'a', 'a', 'a', 'a', 'b', 'b', 'b', 'a', 'a']
+aabbbaaaaaaabbabaabbaaabaaaabbbbaabaabbbaabaaabaaaaabbabbaaaababbababbbb None
+bbaaabbbbbbabbabaabaabbb None
+babaaaaaaaabbbbbaaabaaab None
+abaabbbaabababbaaabaabababaaabababaabaaaaaaabbbaaababbab None
+aaaabaababaabbabbaababbbbbaabbbb ['a', 'a', 'a', 'a', 'b', 'a', 'a', 'b', 'a', 'b', 'a', 'a', 'b', 'b', 'a', 'b', 'b', 'a', 'a', 'b', 'a', 'b', 'b', 'b', 'b', 'b', 'a', 'a', 'b', 'b', 'b', 'b']
+babbbbbaabbbbbbbbaaababb None
+babbaaaabbbbaaaaabaabbabbbbababbaabbbbabaaabbaba None
+babbbabbbabbbbbbbbbabaaa None
+bababbbbabaaabaaaaabbbaa None
+bbbaaabbaabaabababaabbababbabbbaaaabbabbbbaababbbaaaabba None
+bbabababbabbabbaabbbbbaa None
+bbababababbaababaaaabaabababbbbb ['b', 'b', 'a', 'b', 'a', 'b', 'a', 'b', 'a', 'b', 'b', 'a', 'a', 'b', 'a', 'b', 'a', 'a', 'a', 'a', 'b', 'a', 'a', 'b', 'a', 'b', 'a', 'b', 'b', 'b', 'b', 'b']
+aaabbabbbabbaabbbbaaabaa None
+babbaaaababbaabbbaabaabb None
+baaababaaabbaabbabbbabaa None
+bbbaabaabbbaaaaabbbbbbba None
+baaaaaabbbbbbaabbabaaaabaaababaaabbbbbaaababbabbbaababab None
+bbabababaabbaabbaabbbbbbabbaaaababbbbbaaaaaaabba ['b', 'b', 'a', 'b', 'a', 'b', 'a', 'b', 'a', 'a', 'b', 'b', 'a', 'a', 'b', 'b', 'a', 'a', 'b', 'b', 'b', 'b', 'b', 'b', 'a', 'b', 'b', 'a', 'a', 'a', 'a', 'b', 'a', 'b', 'b', 'b', 'b', 'b', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 'b', 'b', 'a']
+abaaaabbbabababbbabbbbaa None
+babbabbbababaabbaabaaababbbabbabbababbaabbaabababbabbbbbbaaaaabb None
+baabbbabbbabbaabaaaabbbb None
+ababaaabaaabbaabbaabbaabababaabaababbabb None
+abbbabbbbbababaabaabaabb None
+babababbbbbaabaabbababbabbababbb ['b', 'a', 'b', 'a', 'b', 'a', 'b', 'b', 'b', 'b', 'b', 'a', 'a', 'b', 'a', 'a', 'b', 'b', 'a', 'b', 'a', 'b', 'b', 'a', 'b', 'b', 'a', 'b', 'a', 'b', 'b', 'b']
+babaabbaabababbabbbbaaaaabbaababbbababbaabbbbaaa None
+bbaababababaabaabaababaa None
+ababaaabbbbbbababababaaabaababbaababaaaa None
+babbababbbaaababbabbaaabbbbababa None
+aaabaaaabbbbaabbbbaaababbaaabbaaabbbababaaaabbab ['a', 'a', 'a', 'b', 'a', 'a', 'a', 'a', 'b', 'b', 'b', 'b', 'a', 'a', 'b', 'b', 'b', 'b', 'a', 'a', 'a', 'b', 'a', 'b', 'b', 'a', 'a', 'a', 'b', 'b', 'a', 'a', 'a', 'b', 'b', 'b', 'a', 'b', 'a', 'b', 'a', 'a', 'a', 'a', 'b', 'b', 'a', 'b']
+bbbaaabbabaaababbbabaaaa None
+abbaabbaaaaabaabaaabbbba None
+aabbbbbbaabaabababaaaaba None
+baababbaaaaabbaaabbbaaab None
+babbbaabaabbaaaabaaabaab None
+babbbbbaaaabbbababbbaaaa None
+bababbbbababbbaaabbbaabb None
+abaaaaaaaaabababbbabababaaaabbba ['a', 'b', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 'b', 'a', 'b', 'a', 'b', 'b', 'b', 'a', 'b', 'a', 'b', 'a', 'b', 'a', 'a', 'a', 'a', 'b', 'b', 'b', 'a']
+aabbbbbababbabbabbabaaaa None
+bbbaaaaabbabbaabbbbbbaabbabaabaaabbbaaaaabbabaab ['b', 'b', 'b', 'a', 'a', 'a', 'a', 'a', 'b', 'b', 'a', 'b', 'b', 'a', 'a', 'b', 'b', 'b', 'b', 'b', 'b', 'a', 'a', 'b', 'b', 'a', 'b', 'a', 'a', 'b', 'a', 'a', 'a', 'b', 'b', 'b', 'a', 'a', 'a', 'a', 'a', 'b', 'b', 'a', 'b', 'a', 'a', 'b']
+abaabababaaababababbbbbbbaaaabaa ['a', 'b', 'a', 'a', 'b', 'a', 'b', 'a', 'b', 'a', 'a', 'a', 'b', 'a', 'b', 'a', 'b', 'a', 'b', 'b', 'b', 'b', 'b', 'b', 'b', 'a', 'a', 'a', 'a', 'b', 'a', 'a']
+aabaaabababbbabbaaaaaabb None
+abbabaaabbbbbababaaabbaabbbbaaab ['a', 'b', 'b', 'a', 'b', 'a', 'a', 'a', 'b', 'b', 'b', 'b', 'b', 'a', 'b', 'a', 'b', 'a', 'a', 'a', 'b', 'b', 'a', 'a', 'b', 'b', 'b', 'b', 'a', 'a', 'a', 'b']
+abbbbbababaabbbabbbabbabbbabbabbbbaabbba None
+abaabababbaabbabababaaaa None
+aaaaabbbabbbabbaaabbbbaaababaaba None
+baaaaaabaabbaaababbbbbbabababbbabbbbabaa None
+bbaabbabaaabbbbbbaaabbba None
+bbabbbbababaabaabaaaabaa None
+abaaaaaaaabbbbabbaaaaabbbbbbbbabbaabbbaa None
+bbbbaaaaababbbabaaabbaaa None
+aaabbaaabbabbbbaaaabbaaabbbaabbbaabaabbb None
+babababaaaaaaababbabbbaaababaabaaaaaabbb None
+aaabbbabaaababaabbabaabb None
+bbabbbbabaaaabbbbbbaabbb None
+abbbbabbbaabaaabababaaba None
+aabbbaaabbabbaaaaabababb None
+bbbbbbaabbbaaabbbbbabaaa None
+aaabbabbabaabbbabbabbaabbbbbaabaabbbaaabbbbbaaabbabbbbaa None
+aabaaabaabaabbabaabbbbbaaabbbaaaaaabaabbbaabbbaa ['a', 'a', 'b', 'a', 'a', 'a', 'b', 'a', 'a', 'b', 'a', 'a', 'b', 'b', 'a', 'b', 'a', 'a', 'b', 'b', 'b', 'b', 'b', 'a', 'a', 'a', 'b', 'b', 'b', 'a', 'a', 'a', 'a', 'a', 'a', 'b', 'a', 'a', 'b', 'b', 'b', 'a', 'a', 'b', 'b', 'b', 'a', 'a']
+abaaaaaaabbbabbbbbbbbbaaaaaaaaaa ['a', 'b', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 'b', 'b', 'b', 'a', 'b', 'b', 'b', 'b', 'b', 'b', 'b', 'b', 'b', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 'a']
+ababbbaabaaaababbaaaaaaabaaaaaaaaaaabaabbbababbb None
+bbabbbbbabaababababaaaabaabaaaaaaaabbaaaabababbaaabbaabbbabbaabababbabaaababbbba None
+baaababababaaaaaaabaabbaaaababaaabbaabaa None
+bbabbaaabbabbbaaabbaabbaababbbbb ['b', 'b', 'a', 'b', 'b', 'a', 'a', 'a', 'b', 'b', 'a', 'b', 'b', 'b', 'a', 'a', 'a', 'b', 'b', 'a', 'a', 'b', 'b', 'a', 'a', 'b', 'a', 'b', 'b', 'b', 'b', 'b']
+babbbbbbbabaabbbabbabaab None
+bbaaaaabaabaababaabbabbabaabbaababaabbbbbbbbabbaabbbabbaaabaaaab ['b', 'b', 'a', 'a', 'a', 'a', 'a', 'b', 'a', 'a', 'b', 'a', 'a', 'b', 'a', 'b', 'a', 'a', 'b', 'b', 'a', 'b', 'b', 'a', 'b', 'a', 'a', 'b', 'b', 'a', 'a', 'b', 'a', 'b', 'a', 'a', 'b', 'b', 'b', 'b', 'b', 'b', 'b', 'b', 'a', 'b', 'b', 'a', 'a', 'b', 'b', 'b', 'a', 'b', 'b', 'a', 'a', 'a', 'b', 'a', 'a', 'a', 'a', 'b']
+babaabbbababbbaabbaaabba None
+bbaaababbbabbbaabbabaabb None
+abaaaabbbabaaaaaababbaba None
+bbbaaabbbaabababbbababbabaabbaaaabaaaababaabbbbbbbbaabbb None
+bbaaabbababbbbbbbbaaaabb None
+ababbbabbaaaababbbabaaba None
+abbaaaaaabaabbbbababbaaa None
+aaaaaabbbbaabbbabaaabbba None
+babbbaabaaabbbabbbbbaabbaaaaaaabbaabbaba None
+babaaabaababbaaabbaaababbbbaabbbaabbaaabaaaaabbababbaaabaabaabbaaabaaabbabbbbaaa None
+bababbbbababaaabaababaab None
+bbbbbaaabbbabbabbbabbbbaaaabaaabbbaaaaba None
+baabbbbbbbabbaabbbbaaaab None
+bbbbaaaababbbbbababbabaa None
+abbbbbbbbabbbaabbaaababbbbabbbbb None
+babbbabbbbbbbabbbbbabaaaabbbbbaababbbbabbabbaaabaabbabaa None
+babaabbaaabbabbbaabaabbb None
+bbbbabbbbbbaaaaaabbaabaa None
+babbabababbabaaaabababab None
+baabbaababbbbaabababbaba None
+aabbabbaaabbbbbbbaaabbbb None
+aabbabbaabbaaaaababaabbaabaabaaaaabababa None
+bbabaaabaaaaababbabbabbaaabbbabb ['b', 'b', 'a', 'b', 'a', 'a', 'a', 'b', 'a', 'a', 'a', 'a', 'a', 'b', 'a', 'b', 'b', 'a', 'b', 'b', 'a', 'b', 'b', 'a', 'a', 'a', 'b', 'b', 'b', 'a', 'b', 'b']
+abababbabbbbabbbabbbabba None
+bababaaababaaaaabbbababbbababababababaaa None
+abbbbbabbababbbaabaaabbbabbaaaabbbbbabbbaaaabaaaabbbbaba None
+babbbbbabaaaaaaabbabababaabbaabaaabbabaa None
+aabbaaababababaaabaaaaaabbaaababaaabaaab None
+aaaaaabaabbbbaabbbabaabb None
+abbabababbaaabbbbabaabab None
+aabaaababababbbaabaaaaba None
+aaaabaabbabababaabababbaaabbbaabbaaaabba None
+babaabaaabbabababbbbbbba None
+babaabbabbbbaaaaaabbabbaabbabbbabaabaaba None
+aaaabaababaaaabbbaabbbba None
+aaaababababbaabbaaaabbab None
+aaabbabbbbbbaababaabbbabbbaaabbbaababbbbbbaabbba ['a', 'a', 'a', 'b', 'b', 'a', 'b', 'b', 'b', 'b', 'b', 'b', 'a', 'a', 'b', 'a', 'b', 'a', 'a', 'b', 'b', 'b', 'a', 'b', 'b', 'b', 'a', 'a', 'a', 'b', 'b', 'b', 'a', 'a', 'b', 'a', 'b', 'b', 'b', 'b', 'b', 'b', 'a', 'a', 'b', 'b', 'b', 'a']
+bbaaabbbaaabbaaabbbababbabbbbaabaaabbbbbbabbaabaabbbabbabaabbbbaaaaaaaaa None
+aaaaabbbabaabbbbbaaababbbbbbabbaabbababababaaabb None
+baabbbabaabaabbabbabaabb None
+abaaabbbaababaaaaababbba None
+bbababbaaaaabbaaaaaaaabaaaaabbab ['b', 'b', 'a', 'b', 'a', 'b', 'b', 'a', 'a', 'a', 'a', 'a', 'b', 'b', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 'b', 'a', 'a', 'a', 'a', 'a', 'b', 'b', 'a', 'b']
+aabaababbabababbabbbbaaa None
+abbaaaabbaaabbaaaaaabbba None
+babaababbaabbbbabbaababa None
+babaabbbaaaabaababaabbbabaaaaabbbbabbbbbbaabaaba ['b', 'a', 'b', 'a', 'a', 'b', 'b', 'b', 'a', 'a', 'a', 'a', 'b', 'a', 'a', 'b', 'a', 'b', 'a', 'a', 'b', 'b', 'b', 'a', 'b', 'a', 'a', 'a', 'a', 'a', 'b', 'b', 'b', 'b', 'a', 'b', 'b', 'b', 'b', 'b', 'b', 'a', 'a', 'b', 'a', 'a', 'b', 'a']
+abbbbaabababbbaabaabbaaa None
+bbbabbababaaaaaaabbbbbbbabbabaab ['b', 'b', 'b', 'a', 'b', 'b', 'a', 'b', 'a', 'b', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 'b', 'b', 'b', 'b', 'b', 'b', 'b', 'a', 'b', 'b', 'a', 'b', 'a', 'a', 'b']
+baababbbbaaaababbabbbbab None
+bbbaabaabbabababaaabaaabaababbbbbbbbabba None
+abbbaabbababbbbaabbaaabaaabaaaaababbaaabbbbbbababbbbbbaaabaabbbaabaabbabbbabbabababababb None
+bbabbaababbaabbabaaaabaa None
+bbabbaaaaabaababababbbbb None
+bbabbaaabbabbabbbbbabaaaabbbbabb None
+aabbbbbbbababaaabaaaabba None
+baabaaaaaabbbaaabaaaaabbabaaabababbbabba None
+abaabbababbaaaabbbbababbbabbababbbbaaaab None
+abbaaaabaaaabbaabbabaaabababbaaa ['a', 'b', 'b', 'a', 'a', 'a', 'a', 'b', 'a', 'a', 'a', 'a', 'b', 'b', 'a', 'a', 'b', 'b', 'a', 'b', 'a', 'a', 'a', 'b', 'a', 'b', 'a', 'b', 'b', 'a', 'a', 'a']
+aaaaaabababbbbbbbabbbbbaaaabababbaabbbababbaabbb None
+babababbaabbabbabaaaabab None
+bbaaaaaaaababbabbbababbabbaabbabbbababbabaaaabaaaaaabbab None
+abaabbbabbbaabaaabaabbaa None
+abbbbbbbbabaabbababaaaabaaaaaabaabbabbbababababbaababbbbababaaaa None
+babababaaaabbbbbbbbaaababababbbbabaaaaaaaaabbbba None
+aabbbbbbbaaaaaabaabbaaaabababbababbbabbabaababaa ['a', 'a', 'b', 'b', 'b', 'b', 'b', 'b', 'b', 'a', 'a', 'a', 'a', 'a', 'a', 'b', 'a', 'a', 'b', 'b', 'a', 'a', 'a', 'a', 'b', 'a', 'b', 'a', 'b', 'b', 'a', 'b', 'a', 'b', 'b', 'b', 'a', 'b', 'b', 'a', 'b', 'a', 'a', 'b', 'a', 'b', 'a', 'a']
+babaaaaabaaaabbbbaaabbbb None
+babaaaabbbbbaaaaaaabbbaa None
+abbaaaaaabbaaaababaabbaa None
+abbbbbbabbbaabaabbbbaaaaaaabbbabaaaaabba None
+bbbbabbbbbbbabbaabbaabbbbbbabbbbaaabbbabaababbbaaabbbaabbaababba None
+babbaaaaababbbbaaababbbb None
+aaaaababbababbabababbbababaaabaaaaaaabba None
+bbbbaabaabbbbbbbaaaabaabbbaabbabbbaababbababbaaa ['b', 'b', 'b', 'b', 'a', 'a', 'b', 'a', 'a', 'b', 'b', 'b', 'b', 'b', 'b', 'b', 'a', 'a', 'a', 'a', 'b', 'a', 'a', 'b', 'b', 'b', 'a', 'a', 'b', 'b', 'a', 'b', 'b', 'b', 'a', 'a', 'b', 'a', 'b', 'b', 'a', 'b', 'a', 'b', 'b', 'a', 'a', 'a']
+bbaabaabbaabbbbbbabbbaba None
+bababbbaaaaaababbbaaababaaabbaaaabbbbbaa None
+bbbbaabbaaaabbaaabbbbaabaabbabbaabbbabbbaabaabaa None
+bbbaaababbbbaaaabbaaabaa None
+bbbbbbaaabaaabbbabaaaaba None
+abbbbbabbabaabaabbabbbab None
+aaaababaababaaabbabaabaabbaaabaa ['a', 'a', 'a', 'a', 'b', 'a', 'b', 'a', 'a', 'b', 'a', 'b', 'a', 'a', 'a', 'b', 'b', 'a', 'b', 'a', 'a', 'b', 'a', 'a', 'b', 'b', 'a', 'a', 'a', 'b', 'a', 'a']
+abbabaaabbbbbaabbababbaa None
+bbbbabbbababbbbaaabaabaa None
+abbaabbaaabbbbabbaaabbbb None
+bbbbabbbababbbbaababaabbaabbabaa ['b', 'b', 'b', 'b', 'a', 'b', 'b', 'b', 'a', 'b', 'a', 'b', 'b', 'b', 'b', 'a', 'a', 'b', 'a', 'b', 'a', 'a', 'b', 'b', 'a', 'a', 'b', 'b', 'a', 'b', 'a', 'a']
+abbabbbaabbbbabbababaaaa None
+abaabbbbbabababbaaabbbaa None
+bbbababaabaabaabbaabaababbbabbaa None
+aabbabbbbaababbababaabbbabbbbaba ['a', 'a', 'b', 'b', 'a', 'b', 'b', 'b', 'b', 'a', 'a', 'b', 'a', 'b', 'b', 'a', 'b', 'a', 'b', 'a', 'a', 'b', 'b', 'b', 'a', 'b', 'b', 'b', 'b', 'a', 'b', 'a']
+aaabaaaaaabbaaabbbbabbbb None
+aaaabbaaabbbbaabaaaabaaa None
+baaaababaabbbababbbbbbaababbbaabbbabbbaaaabbbbababbbaaba None
+bbbbabbbaabbaabbbabbbaba None
+bbabbababaaabababbbaaaba None
+abbbbbbabaabbaabaaaaaabb None
+babbbbabaaabaabbaaabaaaabbababbbbabbabaabaabababbaabbaaababaabaa None
+abbbbaabbaaaaabbabaabaab None
+abbbaabbbaababbbbaaababababbabbb ['a', 'b', 'b', 'b', 'a', 'a', 'b', 'b', 'b', 'a', 'a', 'b', 'a', 'b', 'b', 'b', 'b', 'a', 'a', 'a', 'b', 'a', 'b', 'a', 'b', 'a', 'b', 'b', 'a', 'b', 'b', 'b']
+aabaabbaaabbaaaaabbbabba None
+bbbabaaaababababbabbbbababbabaaaaabbbbbbaaaabbbbabaabbbbbbbbbaaa None
+bababaaababaaaababaaaabbabbaaaaaabbabbaaabbbabba ['b', 'a', 'b', 'a', 'b', 'a', 'a', 'a', 'b', 'a', 'b', 'a', 'a', 'a', 'a', 'b', 'a', 'b', 'a', 'a', 'a', 'a', 'b', 'b', 'a', 'b', 'b', 'a', 'a', 'a', 'a', 'a', 'a', 'b', 'b', 'a', 'b', 'b', 'a', 'a', 'a', 'b', 'b', 'b', 'a', 'b', 'b', 'a']
+babbaabbbaaaababbbbabbba None
+bbbabababbabbbbbabaaabbaaababbbbaaababbbaaaabaaabbbbbaababbabbaabbaaaabb None
+baaaabbbabaaaaabbbbbaababbaabbbbaaabbaba None
+aabbabbabbbababbbaaaaaaaaabababbbaabbaaa None
+bbaaaaabbbbbaaaabaaabbaabababaabaaaaabbb None
+aaabbaababaaaabbbbbababbbbbbbabaabbbbbbbbbabbbbb None
+aaabbaaaabbbabbbababbaaa None
+abababbabaabbaabbababbabaabaabbabbbbaabbbabbbbaa None
+aaababbbaabaaabaabababbaababbbabbabbaaba None
+bbbaabbaabbaabababbbbaaa None
+abbbaabbaaababaabbbabaabbaabbababaaabbbb None
+abbbbbabaabaaabababbbbab None
+abbaaaababaabbbaabaabbaa None
+aaabbabbaaabbaaaababbaab None
+abbaaaabaaabbaaababababaabaaaabbbaabbabaaaaabaaa ['a', 'b', 'b', 'a', 'a', 'a', 'a', 'b', 'a', 'a', 'a', 'b', 'b', 'a', 'a', 'a', 'b', 'a', 'b', 'a', 'b', 'a', 'b', 'a', 'a', 'b', 'a', 'a', 'a', 'a', 'b', 'b', 'b', 'a', 'a', 'b', 'b', 'a', 'b', 'a', 'a', 'a', 'a', 'a', 'b', 'a', 'a', 'a']
+baabaaabbaababbababbbbbbababbaababbaaabb None
+abbbbbabbaaaaabbbabbaabbabaaabbbabaababaabbaaaabbaaaaaaaabbbabaabbbaabaa None
+bbbababbbbbbabababbaabbaabaaaaaababaabbbaaaabaabaabababb None
+babbaabbaaaaabaaaaaababb None
+babaaabbaaaaaababbabbabb None
+bbbbababbabaabbbaabaaabaaaabaaab ['b', 'b', 'b', 'b', 'a', 'b', 'a', 'b', 'b', 'a', 'b', 'a', 'a', 'b', 'b', 'b', 'a', 'a', 'b', 'a', 'a', 'a', 'b', 'a', 'a', 'a', 'a', 'b', 'a', 'a', 'a', 'b']
+bababaaaabbaaaaaabbabaab None
+bababbbabbabbbaabbaabaaa None
+aaaabbaabaabbaabababbaaa None
+bbbbbaaababbaaabbbbaabbb None
+babbbabbbababbbbabbaaabb None
+baababbbabbbbaabbbabbbbb None
+abbbbaabbababbbabbaaaaaa None
+abababaabbbaabaaaabbbbbabaaaabaa ['a', 'b', 'a', 'b', 'a', 'b', 'a', 'a', 'b', 'b', 'b', 'a', 'a', 'b', 'a', 'a', 'a', 'a', 'b', 'b', 'b', 'b', 'b', 'a', 'b', 'a', 'a', 'a', 'a', 'b', 'a', 'a']
+bbabbabababaabbabaaaabaa None
+babbbabbbaabaaabaababbbbbaabaaab None
+aaabbbabbaaaabbbbbabababbaabbbbbbbababbbbabbabbb ['a', 'a', 'a', 'b', 'b', 'b', 'a', 'b', 'b', 'a', 'a', 'a', 'a', 'b', 'b', 'b', 'b', 'b', 'a', 'b', 'a', 'b', 'a', 'b', 'b', 'a', 'a', 'b', 'b', 'b', 'b', 'b', 'b', 'b', 'a', 'b', 'a', 'b', 'b', 'b', 'b', 'a', 'b', 'b', 'a', 'b', 'b', 'b']
+bbabbaabbabbbbbabbabbaabbbabbbabbbabbabbaaabaaba None
+bbababababbababaaababbaa None
+baaababababbabbabaaaaabbbbbaabbbbaabbbba None
+aabbbababaababbbbaababbaabbbbaababbbabaa None
+babbababaaabababbbabbabaaaabababaaaaababbabbbaaaaaababbaaaabbabaaababaab None
+babbabbaaabbbbbabbabbaabbbbabaaaaabaabaa None
+bbaabaaababbbbaaabbbbbbbaaabbaabbaabaaaaabaaabbbbabbabababaaaaaababaabab None
+abbbbabbbbaaababaaabbaba None
+abbabaaaabaabbbbbbbaaaab None
+abaaabaaaaababaabbabbbab None
+bbbbbaaabbabbbaaabbbbabbaaaababbabbababb None
+bbbaaaaaaabaababbbaaabaa None
+abbbbabbabababbabaabbbaa None
+abaaabbaababaaabbbbbaabaaaabaaab ['a', 'b', 'a', 'a', 'a', 'b', 'b', 'a', 'a', 'b', 'a', 'b', 'a', 'a', 'a', 'b', 'b', 'b', 'b', 'b', 'a', 'a', 'b', 'a', 'a', 'a', 'a', 'b', 'a', 'a', 'a', 'b']
+abaabbbabbabbaabbababbbbbbabbbab ['a', 'b', 'a', 'a', 'b', 'b', 'b', 'a', 'b', 'b', 'a', 'b', 'b', 'a', 'a', 'b', 'b', 'a', 'b', 'a', 'b', 'b', 'b', 'b', 'b', 'b', 'a', 'b', 'b', 'b', 'a', 'b']
+abaabbbabbbbababbabaaaba None
+bbabbaababaaaaaabbaabbabbabaabbbabbabbaa None
+baaaaaaaabababbababababababbabababbabaaabbaabbbb None
+aabbbbbababbabbabaaaaaababbbbbabaaabbbbaaaaabbba ['a', 'a', 'b', 'b', 'b', 'b', 'b', 'a', 'b', 'a', 'b', 'b', 'a', 'b', 'b', 'a', 'b', 'a', 'a', 'a', 'a', 'a', 'a', 'b', 'a', 'b', 'b', 'b', 'b', 'b', 'a', 'b', 'a', 'a', 'a', 'b', 'b', 'b', 'b', 'a', 'a', 'a', 'a', 'a', 'b', 'b', 'b', 'a']
+aaabbaabbbabbaababbbabbbabbabbbbbbbbbbab None
+babaabaabbbaaabbbbaabbba None
+abaabbbaabbaaababbaabaaa None
+bbbbabbbaabaaabaabbaaabababbababaabbaaaaaabbbbbbbaaababbaaaaaabbbbaaaababbaaaaaa ['b', 'b', 'b', 'b', 'a', 'b', 'b', 'b', 'a', 'a', 'b', 'a', 'a', 'a', 'b', 'a', 'a', 'b', 'b', 'a', 'a', 'a', 'b', 'a', 'b', 'a', 'b', 'b', 'a', 'b', 'a', 'b', 'a', 'a', 'b', 'b', 'a', 'a', 'a', 'a', 'a', 'a', 'b', 'b', 'b', 'b', 'b', 'b', 'b', 'a', 'a', 'a', 'b', 'a', 'b', 'b', 'a', 'a', 'a', 'a', 'a', 'a', 'b', 'b', 'b', 'b', 'a', 'a', 'a', 'a', 'b', 'a', 'b', 'b', 'a', 'a', 'a', 'a', 'a', 'a']
+aaaaababbabaabbaabaabbaa None
+abaabababbbbbabababbabbaaaabbbba ['a', 'b', 'a', 'a', 'b', 'a', 'b', 'a', 'b', 'b', 'b', 'b', 'b', 'a', 'b', 'a', 'b', 'a', 'b', 'b', 'a', 'b', 'b', 'a', 'a', 'a', 'a', 'b', 'b', 'b', 'b', 'a']
+baaaababbbabbbbaaababbab None
+bbbabbabaabbaabbabbaaabb None
+abaaaababaabbbbabbbbbbbbaaaaaaaababaaaabbbaaaaaabbbbaaabbbbababb None
+75
