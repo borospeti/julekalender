@@ -58,12 +58,12 @@ def count_xmas(m):
 
 matrix = load_input('input.txt')
 
-print('AOC 2024 03 part 1')
+print('AOC 2024 04 part 1')
 print(count_word(matrix, 'XMAS'))
 
 print()
 
-print('AOC 2024 03 part 2')
+print('AOC 2024 04 part 2')
 print(count_xmas(matrix))
 
 

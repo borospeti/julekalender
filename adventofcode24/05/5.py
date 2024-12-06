@@ -54,10 +54,10 @@ def sum_mids(rules, updates):
 (rules, updates) = load_input('input.txt')
 (good, bad) = sum_mids(rules, updates)
 
-print('AOC 2024 03 part 1')
+print('AOC 2024 05 part 1')
 print(good)
 
 print()
 
-print('AOC 2024 03 part 2')
+print('AOC 2024 05 part 2')
 print(bad)

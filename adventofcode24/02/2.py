@@ -23,11 +23,7 @@ def is_safe(m, dampener):
 
 
 def check_safety(l, dampener=False):
-    cnt = 0
-    for m in l:
-        if is_safe(m, dampener):
-            cnt += 1
-    return cnt
+    return sum(map(lambda m: is_safe(m, dampener), l))
 
 
 l = load_input('input.txt')
