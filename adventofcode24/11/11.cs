@@ -48,17 +48,18 @@ class Stone
     }
 }
 
-
+var input = File.ReadAllText("input.txt");
 var stones = new LinkedList<Stone>();
-stones.AddLast(new Stone(4610211L));
-stones.AddLast(new Stone(4L));
-stones.AddLast(new Stone(0L));
-stones.AddLast(new Stone(59L));
-stones.AddLast(new Stone(3907L));
-stones.AddLast(new Stone(201586L));
-stones.AddLast(new Stone(929L));
-stones.AddLast(new Stone(33750L));
-var stoneCounter = stones.ToDictionary(s => s.Number, s => s);
+var stoneCounter = new Dictionary<long, Stone>();
+
+foreach (var stone in input.Split())
+{
+    if (long.TryParse(stone, out var stoneNumber))
+    {
+        stones.AddLast(new Stone(stoneNumber));
+        stoneCounter[stoneNumber] = new Stone(stoneNumber);
+    }
+}
 
 
 void PrintStones(LinkedList<Stone> stones)
@@ -69,8 +70,9 @@ void PrintStones(LinkedList<Stone> stones)
 
 void PrintStoneCounts(Dictionary<long, Stone> stones)
 {
-    Console.WriteLine(string.Join(", ", stones.Values.Select(s => $"({s.Number}: {s.Count})")));
-    Console.WriteLine($"total: {stones.Sum(item => item.Value.Count)}");
+    Console.WriteLine($"number of stones:       *{stones.Sum(item => item.Value.Count)}*");
+    Console.WriteLine($"unique live stones:      {stones.Count(item => item.Value.Count > 0)}");
+    Console.WriteLine($"all-time unique stones:  {stones.Count()}");
 }
 
 void UpdateStones(LinkedList<Stone> stones, int iterations = 1)
@@ -109,7 +111,7 @@ void UpdateCount(Dictionary<long, long> counts, long? key, long addendum)
     }
 }
 
-long CountStones(Dictionary<long, Stone> stones, int iterations = 1)
+void CountStones(Dictionary<long, Stone> stones, int iterations = 1)
 {
     for (var i = 0; i < iterations; i++)
     {
@@ -136,27 +138,17 @@ long CountStones(Dictionary<long, Stone> stones, int iterations = 1)
             }
         }
     }
-    return stones.Sum(item => item.Value.Count);
 }
-
-// PrintStones(stones);
-// PrintStoneCounts(stoneCounter);
-// for (var i = 0; i < 10; i++)
-// {
-//     UpdateStones(stones, 1);
-//     CountStones(stoneCounter, 1);
-//     PrintStones(stones);
-//     PrintStoneCounts(stoneCounter);
-// }
-
-
-
 
 // UpdateStones(stones, 25);
 
 Console.WriteLine("AOC 2024 11 part 1");
-Console.WriteLine(CountStones(stoneCounter, 25));
+CountStones(stoneCounter, 25);
+PrintStoneCounts(stoneCounter);
+
+Console.WriteLine();
 
 Console.WriteLine("AOC 2024 11 part 2");
-Console.WriteLine(CountStones(stoneCounter, 50));
+CountStones(stoneCounter, 50);
+PrintStoneCounts(stoneCounter);
 
