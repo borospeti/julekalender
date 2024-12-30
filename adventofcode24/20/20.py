@@ -86,11 +86,11 @@ field = load_input('input.txt')
 #for cheat in find_cheats(field, threshold=20, time_limit=2):
 #    print(cheat)
 
-print('AOC 2024 18 part 1')
+print('AOC 2024 20 part 1')
 print(sum(1 for cheat in find_cheats(field)))
 
 print()
 
-print('AOC 2024 18 part 2')
+print('AOC 2024 20 part 2')
 print(sum(1 for cheat in find_cheats(field, time_limit=20)))
 
